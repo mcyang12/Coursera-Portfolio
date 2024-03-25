@@ -57,10 +57,18 @@ nav ul {
     list-style: none;
     text-align: left;
     font-size: large;
+    background-color: #e1dada;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
 }
 
 nav li {
-    display: inline-block;
+    display: block;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 1px;
+    text-align: center;
 }
 
 footer {
